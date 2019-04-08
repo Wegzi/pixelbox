@@ -16,6 +16,9 @@
   background-color: #4d004d !important;
   color: #fff !important;
 }
+.bg-navy-transparent{
+background-color: #4d004db3;
+}
 .text-pale{
   color: #efddc2 !important;
 }
